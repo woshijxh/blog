@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
-        "encore/laravel-admin": "^1.6",
+        "encore/laravel-admin": "^1.7",
         "fideloper/proxy": "^4.0",
         "ichynul/iframe-tabs": "^1.2",
         "james.xue/laravel-admin-breadcrumb": "^1.2",
@@ -20,6 +20,7 @@
         "laravel/tinker": "^1.0"
     },
     "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.2",
         "filp/whoops": "^2.0",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
